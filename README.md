@@ -47,4 +47,4 @@ Comienza editando:
 ```
 
 ###Fuente
-Este Angular Starter está basado en "Preboot" para mayor referencia visita: https://github.com/preboot/angular-webpack
+Este Angular Starter está basado en "Preboot" para mayor información visita: https://github.com/preboot/angular-webpack
