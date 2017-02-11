@@ -1,5 +1,4 @@
 #Casas y Terrenos Coding Challenge
-#==================================
 
 Este challenge es utilizado para ayudarnos a evaluar a los candidatos interesados en unirse al equipo de Casas y Terrenos.
 La idea es que los candidatos finalicen el challenge antes de la entrevista personal, en donde se discutirá la solución del challenge.
@@ -19,14 +18,16 @@ Puedes enviarnos tu solución utilizando la tecnología con la que más te sient
 Angular.JS es una parte importante de nuestro stack y lo usaras en las aplicaciones que estamos desarrollando dentro de Casas y Terrenos, es muy importante para nosotros que te entusiasme aprenderlo. Si no dominas Angular.JS puedes aprender un poco para resolver el reto, estaremos impresionados por eso ;)
 
 Puedes usar estos tutoriales:
+
 https://www.codeschool.com/courses/shaping-up-with-angular-js
+
 http://www.learn-angular.org
 
 ###¿Cómo empezar?
 
 Clona este repo en tu computadora
 ```
-git clone git@
+git clone git@github.com:pedropablorj/cytChallenge.git
 ```
 
 Inicia:
