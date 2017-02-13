@@ -27,7 +27,7 @@ http://www.learn-angular.org
 
 Clona este repo en tu computadora
 ```
-git clone git@github.com:pedropablorj/cytChallenge.git
+git clone https://github.com/pedropablorj/cytChallenge.git
 ```
 
 Inicia:
